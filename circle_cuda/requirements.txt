@@ -1,0 +1,13 @@
+bettercam
+numpy
+opencv-python
+pywin32
+pynput
+line_profiler
+psutil
+
+
+https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
+
+
+pip install -r requirements.txt
